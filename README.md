@@ -1,5 +1,5 @@
-### Alghorithms - Problem Solving
+### Algorithms - Problem Solving
 
-HackerRank Alghorithms solutions
+HackerRank Algorithms solutions
 
 https://www.hackerrank.com/domains/algorithms
