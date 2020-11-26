@@ -1,4 +1,4 @@
-# Alghorithms
+### Alghorithms
 
 HackerRank Alghorithms solutions
 
